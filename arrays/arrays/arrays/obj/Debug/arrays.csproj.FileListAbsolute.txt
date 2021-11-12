@@ -1,0 +1,19 @@
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\SimãoBoss\Desktop\arrays\arrays\arrays\obj\Debug\arrays.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\bin\Debug\arrays.exe.config
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\bin\Debug\arrays.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\bin\Debug\arrays.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\obj\Debug\arrays.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\obj\Debug\arrays.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\arrays\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\bin\Debug\arrays.exe.config
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\bin\Debug\arrays.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\bin\Debug\arrays.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\obj\Debug\arrays.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\arrays\arrays\arrays\obj\Debug\arrays.pdb
